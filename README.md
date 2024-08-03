@@ -81,12 +81,6 @@ You can refer to the `documentation.docx` file located in the project directory 
 ![Screenshot 7](https://github.com/anuragsinha03/credity/blob/main/static/images/help.png?raw=true)
 *HELP SECTION*
 
-## Contributors
-
-- Shubham Sinha (https://www.linkedin.com/in/shubhamsinhaaa/)
-- Anurag Sinha (https://www.linkedin.com/in/anuragsinha03/)
-- Darshan Balar (https://www.linkedin.com/in/darshan-balar-4302141bb/)
-
 ## Additional Notes
 - Ensure that you have Python and pip installed on your machine.
 - Customize the Flask app according to your specific requirements.
